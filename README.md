@@ -1,12 +1,13 @@
 # React Todo-App
 
 I build this project with a crash course on Youtube
-
+```
 # Install dependencies
-npm install
+**npm install**
 
 # Serve on localhost:3000
-npm start
+__npm start__
 
 # Build for production
-npm run build
+__npm run build__
+```
